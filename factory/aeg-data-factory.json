@@ -1,0 +1,9 @@
+{
+	"name": "aeg-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "964eec0d-040a-4e83-af91-30424e35ac82",
+		"tenantId": "3e92f5d8-e1ab-4187-a370-03e2dec4eacc"
+	}
+}
